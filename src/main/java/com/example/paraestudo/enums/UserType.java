@@ -1,6 +1,6 @@
 package com.example.paraestudo.enums;
 
 public enum UserType {
-    COMMOM,
+    COMMON,
     MERCHANT
 }
